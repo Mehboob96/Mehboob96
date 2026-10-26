@@ -378,6 +378,7 @@ const glyphKeys: Record<string, { glyph: string; color: string; title: string }>
   arcade: { glyph: "▶", color: "#7FB8EA", title: "Mehboob's Arcade" },
   portfolio: { glyph: "⌨", color: "#8ED5B5", title: "mehboobshaikh.com" },
   quilo: { glyph: "◠", color: "#B79CEB", title: "Quilo" },
+  tv: { glyph: "⏻", color: "#D9B56C", title: "Clean Your TV" },
 };
 function glyphKey(glyph: string, color: string, title: string) {
   const u = 64;

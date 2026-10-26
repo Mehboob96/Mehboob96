@@ -107,6 +107,14 @@ Free, private tools I made for myself and put into production anyway. No ads, no
     </td>
   </tr>
   <tr>
+    <td width="72" valign="top"><a href="https://cleanyourtv.mehboobshaikh.com"><img src="assets/key-tv.svg" width="64" alt="⏻ key"></a></td>
+    <td valign="top">
+      <b><a href="https://cleanyourtv.mehboobshaikh.com">Clean Your TV</a></b> · <code>cleanyourtv.mehboobshaikh.com</code><br>
+      A family TV, debloated and given a home screen of its own. Our Sony BRAVIA running Google TV, with 26 bloat packages switched off (never uninstalled) and a launcher of our own: a 3D dock where each app lights the screen in its own colour, a family screen, an offline screensaver, and one script that rebuilds the TV after a factory reset. Built on <a href="https://github.com/Gathin23/cleanyourtv">Gathin's open-source cleanyourtv</a> and not affiliated with it. The site tells the story screen by screen, with a drag-to-compare before and after.<br>
+      <sub>Java · Android TV · ADB · Next.js · TypeScript · Tailwind · Cloudflare Pages</sub>
+    </td>
+  </tr>
+  <tr>
     <td width="72" valign="top"><a href="https://mehboob-arcade.vercel.app"><img src="assets/key-arcade.svg" width="64" alt="▶ key"></a></td>
     <td valign="top">
       <b><a href="https://mehboob-arcade.vercel.app">Mehboob's Arcade</a></b> · <code>mehboob-arcade.vercel.app</code><br>
@@ -137,7 +145,7 @@ Free, private tools I made for myself and put into production anyway. No ads, no
 - Taking a new client product from discovery to MVP, and leading headless re-platforms to Sanity + Next.js.
 - Building most side projects with Claude Code in the loop, and writing down the prompts and workflow that take an idea from an empty folder to live, indexed and showcased.
 - Tinkering with AI developer tooling, reading changelogs and launch threads, and running small experiments to see what actually makes the work faster.
-- Debloated the family TV over Wi-Fi and gave it an Apple TV style home screen of its own.
+- Debloated the family TV over Wi-Fi and built it a launcher of its own, then a site to tell the story: [Clean Your TV](https://cleanyourtv.mehboobshaikh.com).
 - Looking for my next senior IC or tech lead role. The stack matters less than the problem; bring me a hard one.
 
 ## Say hello
